@@ -1,0 +1,29 @@
+{
+    "experiences": [
+        {
+            "title": "Angular Developer Intern",
+            "subtitle": "Superstars",
+            "workType": "Internship",
+            "workDescription": [
+                "Collaborated with the stakeholders to review and refine website requirements serving a clientele exceeding 10,000 users.",                
+                "Transformed mock designs to Angular utilizing best practices, enacting MVC and Singleton design patterns.",
+                "Exhibited strong aptitude as a quick learner by swiftly acquiring proficiency in the Angular framework    within weeks, resulting in 20% acceleration of project development."
+            ],
+            "dateText": "05/2023 – 07/2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Cimpress India Private Limited",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Orchestrated integration of CI/CD tools using AWS Lambda and S3, curtailing build times by 30%.",
+                "Revamped serving of images using .NET and AWS S3, producing a 35% faster page load.",
+                "Collaborated with product managers and designers to design, debug, deploy and maintain frontend and backend software for a user base of 100k+ users, while adhering to best practices.",
+                "Mentored and supported new team members, resulting in a 15% reduction in training budget due to accelerated onboarding and knowledge transfer.",
+                "Played an instrumental role in the optimization of a microservice leveraging .NET Core backend, React.js for UI/UX that increased sales by 8%. Contributed to unit testing and thorough code reviews.",
+                "Analyzed and refactored several features resulting in improved maintainability and enhanced overall system performance by 7%."
+            ],
+            "dateText": "08/2020 – 07/20"
+        }
+    ]
+}

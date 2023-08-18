@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Aug 2022 - May 2024",
+            "cardTitle": "Master of Science, Computer Science",
+            "cardSubtitle":"Indiana University, Bloomington",
+            "cardDetailedText": "CGPA - 3.89",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Aug 2016 - Aug 2020",
+            "cardTitle": "Bachelor of Engineering, Computer Science",
+            "cardSubtitle":"Nitte Meenakshi Institute of Technology, Bangalore",
+            "cardDetailedText": "CGPA - 9.25"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Performance of Next.js on Edge Networks",
+            "bodyText": "- Explored different load scenarios to determine optimal function deployment: Edge Function on multiple servers or Serverless Function on a single server. Built with Next.js, Vercel and PostgreSQL. \n Used middleware, achieved streaming, suspense, and edge capabilities for improved reliability.",
+            "tags" : [
+                "Next.js",
+                "Vercel",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "title": "Video Content Moderation and Subtitle Generation",
+            "bodyText": "- Developed a cloud-based solution using AWS services (Rekognition, Transcribe, EC2, Amplify, S3) to streamline content creation's post-production phase. Used Python Boto3 SDK to interface AWS. \n Built with React, Flask, Python, AWS, Git.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/video-moderation-subtitle-generation"
+                }
+            ],
+            "tags" : [
+                "React",
+                "AWS EC2",
+                "AWS S3",
+                "AWS Transcribe",
+                "AWS Amplify",
+                "AWS Rekognition",
+                "Python"
+            ]
+        },
+        {
+            "title": "Google Docs Clone",
+            "bodyText": "- Built with React.js, Node.js and Socket IO. Stored document IDs in MongoDB to persist data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/google-docs-clone"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Image Captioning for the Visually Impaired",
+            "bodyText": "- A mobile application based, Deep Learning project to help the visually impaired visualize a surrounding through audio output.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/Image-Captioning"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Python",
+                "AWS EC2"
+            ]
+        },
+        {
+            "title": "To Do List",
+            "bodyText": "- A chrome extension for users to track their to do list items. Published on chrome web store.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/Remember-It"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://chrome.google.com/webstore/detail/remember-it/ldbdggadgjbikonkpokchoanecloghhp"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "jQuery"
+            ]
+        },
+        {
+            "title": "Expense Tracker",
+            "bodyText": "- A React Native app with Go as the backend to track user expenses.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/expense-tracker"
+                }
+            ],
+            "tags" : [
+                "React Native",
+                "Golang",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "title": "AI News Reader",
+            "bodyText": "- https://github.com/thathva/news-ai-reader",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/expense-tracker"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://spontaneous-scone-da8fa1.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React JS"
+            ]
+        },
+        {
+            "title": "Expense Tracker",
+            "bodyText": "- A Web application for users to log their fitness activities and chat with trainers",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thathva/Wellness-Tracker/"
+                }
+            ],
+            "tags" : [
+                "React JS",
+                "MongoDB",
+                "Express.js",
+                "Node.js"
+            ]
+        }
+    ]
+}
