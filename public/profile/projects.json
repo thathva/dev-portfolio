@@ -7,11 +7,11 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/thathva/dev-portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://thathva-portfolio.netlify.app"
                 }
             ],
             "tags" : [
@@ -121,7 +121,7 @@
                     "href": "https://github.com/thathva/expense-tracker"
                 },
                 {
-                    "text": "GitHub",
+                    "text": "Live",
                     "href": "https://spontaneous-scone-da8fa1.netlify.app/"
                 }
             ],
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "title": "Expense Tracker",
+            "title": "Wellness Tracker",
             "bodyText": "- A Web application for users to log their fitness activities and chat with trainers",
             "links": [
                 {
